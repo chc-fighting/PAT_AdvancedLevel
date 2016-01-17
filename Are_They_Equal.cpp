@@ -3,6 +3,7 @@
 
 using namespace std;
 
+
 void getBaseExponents(string& str, string& base, int& exponents, int& N);
 
 int main()
